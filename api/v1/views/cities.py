@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" City model that handles all default RESTFul API actions """
+""" A city model to handle all RESTFul API actions """
 from api.v1.views import app_views
 from flask import make_response, jsonify, request, abort
 from models import storage
