@@ -1,5 +1,5 @@
 #!/usr/bin/python
-"""Will holds class Place"""
+"""It will hold class Place"""
 import models
 from models.base_model import BaseModel, Base
 from os import getenv
