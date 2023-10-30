@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Flask web templet """
+""" A flask web templet """
 from api.v1.views import app_views
 from flask import jsonify, make_response
 from models import storage
