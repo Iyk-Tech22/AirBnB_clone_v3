@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" States view for RESTFul API"""
+""" It states view for RESTFul API"""
 from models.state import State
 from models import storage
 from flask import Flask, request, jsonify, abort, make_response
