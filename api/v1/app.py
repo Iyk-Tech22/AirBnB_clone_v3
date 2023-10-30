@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Flask web app api """
+""" A flask web app api """
 from flask import Flask, make_response, jsonify
 from flask_cors import CORS
 from models import storage
