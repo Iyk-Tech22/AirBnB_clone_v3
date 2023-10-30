@@ -1,5 +1,5 @@
 #!/usr/bin/python
-""" Will holds class Amenity"""
+""" It will hold class Amenity"""
 import models
 from models.base_model import BaseModel, Base
 from os import getenv
