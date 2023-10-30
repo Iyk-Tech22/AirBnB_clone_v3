@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Places views for RESTFul API actions """
+""" A place views for RESTFul API actions """
 from api.v1.views import app_views
 from flask import make_response, jsonify, request, abort
 from models import storage
