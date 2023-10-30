@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Will holds class User"""
+""" It will hold class User"""
 import models
 from models.base_model import BaseModel, Base
 from os import getenv
